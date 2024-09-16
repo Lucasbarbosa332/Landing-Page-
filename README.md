@@ -1,7 +1,8 @@
 # Landing-Page-
+
 Landing Page sobre dentista  
 
-## Contexto 
+## Contexto 📝
 
 A landing page de serviços odontológicos foi desenvolvida utilizando as tecnologias HTML, CSS e JavaScript, com foco em uma interface amigável e funcional para os pacientes. O design da página é moderno, totalmente responsivo, garantindo que a navegação seja eficiente tanto em dispositivos móveis quanto em desktops.
 
