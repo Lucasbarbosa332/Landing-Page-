@@ -17,7 +17,7 @@ Por fim, as animações na página, feitas com CSS e JavaScript, adicionam um to
 
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Landing-Page-/blob/main/dentista.png"></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
